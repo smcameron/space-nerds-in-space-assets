@@ -1,0 +1,43 @@
+---------------------------------------------------------------------------
+The following images are Copyright (c) 2014 Stephen M. Cameron
+and are released under the terms of the Creative Commons Attribution-ShareAlike
+3.0 unported license (See: CC-BY-SA-3.0.txt in the top level directory)
+
+./share/snis/solarsystems/tau-scorpii/bluish0.png
+./share/snis/solarsystems/tau-scorpii/bluish1.png
+./share/snis/solarsystems/tau-scorpii/bluish2.png
+./share/snis/solarsystems/tau-scorpii/bluish3.png
+./share/snis/solarsystems/tau-scorpii/bluish4.png
+./share/snis/solarsystems/tau-scorpii/bluish5.png
+./share/snis/solarsystems/tau-scorpii/erth-0.png
+./share/snis/solarsystems/tau-scorpii/erth-1.png
+./share/snis/solarsystems/tau-scorpii/erth-2.png
+./share/snis/solarsystems/tau-scorpii/erth-3.png
+./share/snis/solarsystems/tau-scorpii/erth-4.png
+./share/snis/solarsystems/tau-scorpii/erth-5.png
+./share/snis/solarsystems/tau-scorpii/gasgiant-d-0.png
+./share/snis/solarsystems/tau-scorpii/gasgiant-d-1.png
+./share/snis/solarsystems/tau-scorpii/gasgiant-d-2.png
+./share/snis/solarsystems/tau-scorpii/gasgiant-d-3.png
+./share/snis/solarsystems/tau-scorpii/gasgiant-d-4.png
+./share/snis/solarsystems/tau-scorpii/gasgiant-d-5.png
+./share/snis/solarsystems/tau-scorpii/image0.png
+./share/snis/solarsystems/tau-scorpii/image1.png
+./share/snis/solarsystems/tau-scorpii/image2.png
+./share/snis/solarsystems/tau-scorpii/image3.png
+./share/snis/solarsystems/tau-scorpii/image4.png
+./share/snis/solarsystems/tau-scorpii/image5.png
+./share/snis/solarsystems/tau-scorpii/jungle0.png
+./share/snis/solarsystems/tau-scorpii/jungle1.png
+./share/snis/solarsystems/tau-scorpii/jungle2.png
+./share/snis/solarsystems/tau-scorpii/jungle3.png
+./share/snis/solarsystems/tau-scorpii/jungle4.png
+./share/snis/solarsystems/tau-scorpii/jungle5.png
+./share/snis/solarsystems/tau-scorpii/rustywall0.png
+./share/snis/solarsystems/tau-scorpii/rustywall1.png
+./share/snis/solarsystems/tau-scorpii/rustywall2.png
+./share/snis/solarsystems/tau-scorpii/rustywall3.png
+./share/snis/solarsystems/tau-scorpii/rustywall4.png
+./share/snis/solarsystems/tau-scorpii/rustywall5.png
+./share/snis/solarsystems/tau-scorpii/sun.png
+
