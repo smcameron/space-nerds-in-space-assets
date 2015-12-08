@@ -1,0 +1,13 @@
+# Locations of assets for "tau-scorpii" solar system
+
+planet texture count: 5
+planet texture: erth-  earth-like
+planet texture: bluish  gas-giant
+planet texture: jungle  gas-giant
+planet texture: gasgiant-d-  gas-giant
+planet texture: rustywall  gas-giant
+
+sun texture: sun.png
+
+skybox texture: image
+
