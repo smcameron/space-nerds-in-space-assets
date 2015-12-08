@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-The following images are Copyright (c) 2014 Stephen M. Cameron
+The following images are Copyright (c) 2015 Stephen M. Cameron
 and are released under the terms of the Creative Commons Attribution-ShareAlike
 3.0 unported license (See: CC-BY-SA-3.0.txt in the top level directory)
 
