@@ -3,6 +3,44 @@ The following images are Copyright (c) 2015 Stephen M. Cameron
 and are released under the terms of the Creative Commons Attribution-ShareAlike
 3.0 unported license (See: CC-BY-SA-3.0.txt in the top level directory)
 
+./share/snis/solarsystems/sirius/corealto0.png
+./share/snis/solarsystems/sirius/corealto1.png
+./share/snis/solarsystems/sirius/corealto2.png
+./share/snis/solarsystems/sirius/corealto3.png
+./share/snis/solarsystems/sirius/corealto4.png
+./share/snis/solarsystems/sirius/corealto5.png
+./share/snis/solarsystems/sirius/greenhaze0.png
+./share/snis/solarsystems/sirius/greenhaze1.png
+./share/snis/solarsystems/sirius/greenhaze2.png
+./share/snis/solarsystems/sirius/greenhaze3.png
+./share/snis/solarsystems/sirius/greenhaze4.png
+./share/snis/solarsystems/sirius/greenhaze5.png
+./share/snis/solarsystems/sirius/kadar0.png
+./share/snis/solarsystems/sirius/kadar1.png
+./share/snis/solarsystems/sirius/kadar2.png
+./share/snis/solarsystems/sirius/kadar3.png
+./share/snis/solarsystems/sirius/kadar4.png
+./share/snis/solarsystems/sirius/kadar5.png
+./share/snis/solarsystems/sirius/ourck-with-clouds-0.png
+./share/snis/solarsystems/sirius/ourck-with-clouds-1.png
+./share/snis/solarsystems/sirius/ourck-with-clouds-2.png
+./share/snis/solarsystems/sirius/ourck-with-clouds-3.png
+./share/snis/solarsystems/sirius/ourck-with-clouds-4.png
+./share/snis/solarsystems/sirius/ourck-with-clouds-5.png
+./share/snis/solarsystems/sirius/sun.png
+./share/snis/solarsystems/sirius/vorloxx0.png
+./share/snis/solarsystems/sirius/vorloxx1.png
+./share/snis/solarsystems/sirius/vorloxx2.png
+./share/snis/solarsystems/sirius/vorloxx3.png
+./share/snis/solarsystems/sirius/vorloxx4.png
+./share/snis/solarsystems/sirius/vorloxx5.png
+./share/snis/solarsystems/sirius/zukon0.png
+./share/snis/solarsystems/sirius/zukon1.png
+./share/snis/solarsystems/sirius/zukon2.png
+./share/snis/solarsystems/sirius/zukon3.png
+./share/snis/solarsystems/sirius/zukon4.png
+./share/snis/solarsystems/sirius/zukon5.png
+
 ./share/snis/solarsystems/tau-scorpii/bluish0.png
 ./share/snis/solarsystems/tau-scorpii/bluish1.png
 ./share/snis/solarsystems/tau-scorpii/bluish2.png
