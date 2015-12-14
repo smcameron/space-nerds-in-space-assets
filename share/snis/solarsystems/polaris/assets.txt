@@ -1,0 +1,13 @@
+
+planet texture count: 6
+planet texture: zebina-with-clouds- earth-like
+planet texture: albara gas-giant
+planet texture: aronov gas-giant
+planet texture: nemalta gas-giant
+planet texture: elibon gas-giant
+planet texture: vedekri gas-giant
+
+sun texture: sun.png
+
+skybox texture: violethaze
+
