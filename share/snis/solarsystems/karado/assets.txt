@@ -1,0 +1,12 @@
+
+planet texture count: 5
+planet texture: maurz maurz-normalmap rocky 
+planet texture: tounah tounah-normalmap rocky 
+planet texture: ounii-with-clouds- ounii-normalmap-masked earthlike 
+planet texture: norphi norphi-normalmap rocky 
+planet texture: kolaron no-normal-map gas-giant 
+
+sun texture: sun.png
+
+skybox texture: skybox-
+
