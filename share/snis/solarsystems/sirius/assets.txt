@@ -1,10 +1,11 @@
 
-planet texture count: 5
+planet texture count: 6
 planet texture: ourck-with-clouds- earth-like
 planet texture: corealto gas-giant
 planet texture: kadar gas-giant
 planet texture: zukon gas-giant
 planet texture: vorloxx gas-giant
+planet texture: hedas hedas-normal rocky
 
 sun texture: sun.png
 
