@@ -7,6 +7,6 @@ planet texture: norphi norphi-normalmap rocky
 planet texture: kolaron no-normal-map gas-giant 
 
 sun texture: sun.png
-
 skybox texture: skybox-
+star location: 7.2 10.0 -3.3
 

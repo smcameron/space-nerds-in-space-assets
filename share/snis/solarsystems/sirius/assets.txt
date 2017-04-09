@@ -8,6 +8,5 @@ planet texture: vorloxx gas-giant
 planet texture: hedas hedas-normal rocky
 
 sun texture: sun.png
-
 skybox texture: greenhaze
-
+star location: 7.1 -4.8 -16.4

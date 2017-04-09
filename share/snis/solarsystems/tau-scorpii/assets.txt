@@ -8,6 +8,5 @@ planet texture: gasgiant-d-  gas-giant
 planet texture: rustywall  gas-giant
 
 sun texture: sun.png
-
 skybox texture: image
-
+star location: 20.1 6.9 -4.1

@@ -8,6 +8,6 @@ planet texture: elibon gas-giant
 planet texture: vedekri gas-giant
 
 sun texture: sun.png
-
 skybox texture: violethaze
+star location: 6.0 -4.5 -4.1
 
