@@ -4,7 +4,7 @@ NOTE THIS REPO IS OBSOLETE
 
 Instead, you can run "make update-assets" and download assets that way (more than are in this repo).
 
-See: https://spacenerdsinspace.com/index.html#additionalassets
+See: https://smcameron.github.io/space-nerds-in-space/#additionalassets
 
 Repository for supplemental assets for Space Nerds In Space (see: https://smcameron.github.io/space-nerds-in-space/)
 
